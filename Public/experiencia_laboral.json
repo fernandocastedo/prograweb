@@ -1,0 +1,28 @@
+{
+    "experiencia_laboral": [
+      {
+        "empresa": "Ridge Security Technology Inc.",
+        "cargo": "Gerente de desarrollo de negociob",
+        "duracion": "oct. 2024 - actualidad · 6 meses · En remoto",
+        "descripcion": " Desarrollo de oportunidades de negocio · Ventas · Desarrollo estratégico de negocios · Gestión comercial · Ciberseguridad"
+      },
+      {
+        "empresa": "Univalle Santa Cruz",
+        "cargo": "Docente universitario",
+        "duracion": "feb. 2022 - actualidad · 3 años 2 meses",
+        "descripcion": "Docente Universitario orientado a la educación por competencias utilizando herramientas informáticas educativas de alta calidad y tecnología. Docente de las materias:*Fundamentos de las ciencias de la computación - propone la base matemática para el desarrollo de la ingeniería en sistemas.*Electrónica Digital Aplicada."
+      },
+      {
+        "empresa": "INFINYCORE",
+        "cargo": "Country Manager",
+        "duracion": "Jornada completa · 2 años 7 meses",
+        "descripcion": "Aptitudes: Gestión internacional · Dirección general · Gestión corporativa · Desarrollo de oportunidades de negocio · Liderazgo de equipos · Mejora de procesos · Microsoft Office"
+      },
+      {
+        "empresa": "Podcast El Ekeko Cultural",
+        "cargo": "Director ejecutivo y Locutor",
+        "duracion": "jul. 2020 - ene. 2024 · 3 años 7 meses",
+        "descripcion": "Co-fundador, director y locutor del proyecto de Podcast llamado El Ekeko Cultural.  El Ekeko cultural es un podcast 100% boliviano que nace de la necesidad de conocer, profundizar y explorar la cosmovisión boliviana."
+      }
+    ]
+}

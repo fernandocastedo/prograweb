@@ -1,0 +1,21 @@
+{
+    "habilidades": [
+      { "nombre": "Microsoft Office", "nivel": "Avanzado" },
+      { "nombre": "Ciberseguridad", "nivel": "Intermedio" },
+      { "nombre": "Discursos en público", "nivel": "Avanzado" },
+      { "nombre": "Enseñanza superior", "nivel": "Intermedio" },
+      { "nombre": "Supervisión proactiva", "nivel": "Avanzado" },
+      { "nombre": "Liderazgo de equipos", "nivel": "Avanzado" },
+      { "nombre": "Mejora de procesos", "nivel": "Avanzado" },
+      { "nombre": "B2B (Business-to-Business)", "nivel": "Avanzado" },
+      { "nombre": "Desarrollo de oportunidades de negocio", "nivel": "Avanzado" },
+      { "nombre": "Análisis de negocio", "nivel": "Avanzado" },
+      { "nombre": " Servicio de atención al cliente", "nivel": "Avanzado" },
+      { "nombre": " Gestión corporativa", "nivel": "Avanzado" },
+      { "nombre": "  Dirección general", "nivel": "Avanzado" },
+      { "nombre": "  Gestión internacional", "nivel": "Avanzado" },
+      { "nombre": "  Gestión comercial", "nivel": "Avanzado" },
+      { "nombre": " Desarrollo estratégico de negocios", "nivel": "Avanzado" },
+      { "nombre": " Ventas", "nivel": "Avanzado" }
+    ]
+}
