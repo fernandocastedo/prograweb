@@ -1,7 +1,11 @@
 <?php
-  var_dump($_GET);
-  $nombre  = $_GET['nombre']  ?? '';
-  $telefono= $_GET['telefono']?? '';
-  echo "Nombre: $nombre<br>";
-  echo "Teléfono: $telefono<br>";
+
+    var_dump($GET);
+    if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['nombre'], $_GET['telefono'])) {
+        $nombre = $_GET["nombre"];
+        $telefono = $_GET["telefono"];
+        echo "NOMBRE: " .$nombre."<br>";
+        echo "TELEFONO: " .$telefono;
+    }
+
 ?>

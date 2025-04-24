@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body>      
     <h1>Envio de datos en PHP</h1>
     <form action="index.php" method="POST">
         <input type="text" name="nombre" id="nombre" placeholder="Nombre">
