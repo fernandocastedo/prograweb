@@ -15,7 +15,12 @@ class ProductoController extends Controller
             return $query->where('categoria', $categoria);
         })->get();
 
-        $categorias = Producto::select('categoria')->distinct()->pluck('categoria');
+        $categorias = collect([
+            'Herramientas',
+            'Seguridad',
+            'Adhesivos',
+            'Hogar',
+        ]);
 
         return view('productos.index', compact('productos', 'categorias', 'categoria'));
     }
